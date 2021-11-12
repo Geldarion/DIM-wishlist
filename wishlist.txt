@@ -5,8 +5,9 @@ dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007,3841
 //notes: Range is great, Kill Clip and Hip-Fire makes it really consistent. Killing Wind is also really good in column 3.
 dimwishlist:item=3717177717&perks=663495154,3142289711,1866048759,1015611457,2697220197
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,1015611457,2697220197
+
 //notes: This is my current best roll
-dimwishlist:item=3717177717&perks=663495155,106909392,1359896290,591790007
+dimwishlist:item=3717177717&perks=663495155,106909392,1359896290,591790007,384158423
 
 // Jurassic Green (Gel Goal)
 //notes: Range MW, arrowhead brake, rangefinder, frenzy
