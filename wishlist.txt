@@ -84,7 +84,7 @@ dimwishlist:item=2261046232&perks=1467527085,1561002382,2846385770,2458213969,26
 
 
 // Succession (Gel Goal)
-//notes: For gambit invading, this minimizes reload.
+//notes: For gambit invading, this minimizes reload. Fluted, Tac, Reconstruction, Snapshot, Handling
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,957782887,186337601
 
 
